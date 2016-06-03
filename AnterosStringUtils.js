@@ -22,8 +22,6 @@
  */
 
 var AnterosStringUtils = (function() {
-    'use strict';
-
 
     function abbreviate(string, maxWidth, offset) {
         if (isEmpty(string)) {

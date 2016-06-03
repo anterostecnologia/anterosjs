@@ -21,7 +21,6 @@
  * @link    https://github.com/anterostecnologia/anterosjs
  */
 var AnterosFilterDSL = (function() {
-    'use strict';
     var Operator = {
         IS: 'IS',
         BETWEEN: 'BETWEEN',
